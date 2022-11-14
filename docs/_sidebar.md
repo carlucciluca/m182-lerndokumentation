@@ -1,0 +1,7 @@
+* [Infrastruktur](infrastruktur.md)
+* [WSUS und Active Directory](wsus_und_ad.md)
+* [Software Sysmon](software_sysmon.md)
+* [Software OSQuery](software_osquery.md)
+* [Installation Winlogbeat](installation_winlogbeat.md)
+* [Security Dashboards ELK](security_dashboards_elk.md)
+* [Fleet Osquery Testing](fleet_osquery_testing.md)
